@@ -18,8 +18,7 @@ This application identifies which companies from a given list are mentioned in a
 ### 1. Clone the Repository
 
 ```sh
-git clone <repository-url>
-cd <repository-directory>
+git clone git@github.com:nedhle/reprisk-assignment.git
 ````
 
 ### 2. Running
