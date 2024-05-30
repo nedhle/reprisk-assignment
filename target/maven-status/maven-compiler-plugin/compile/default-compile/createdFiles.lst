@@ -1,0 +1,14 @@
+com\reprisk\service\Processor.class
+com\reprisk\model\Company$CompanyBuilder.class
+com\reprisk\utils\CompanyListLoader.class
+com\reprisk\model\TrieNode.class
+com\reprisk\model\Article$ArticleBuilder.class
+com\reprisk\utils\CompanyNameUtil.class
+com\reprisk\model\Company.class
+com\reprisk\utils\ResultReporter.class
+com\reprisk\TaskApplication.class
+com\reprisk\model\Trie.class
+com\reprisk\service\ProcessorImpl.class
+com\reprisk\utils\XmlReader.class
+com\reprisk\utils\CsvReader.class
+com\reprisk\model\Article.class
